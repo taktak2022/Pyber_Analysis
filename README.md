@@ -35,6 +35,7 @@ The average fare per ride breaks down as follows:
 * Urban - $34.62
 * Suburban - $30.97
 * Rural - $24.53
+* 
 Here as well, we see that there is an $10 difference in average fare per ride breakdowns.  Further market research and possible marketing campaigns in the rural and suburban areas could be considered to increase these averages.  Possible customer target demographics could be suburban and rural families that share only one vehicle and cannot afford a second vehicle with its full-time costs associated with fuel, maintenance and insurance.  Another angle would be for teenagers who do not drive and/or do not own their own car.  This ride share program would be the perfect "vehicle" (pun intended) for a teenager to utilize on a weekend date to the mall to see a movie.
 
 ### Conclusions
